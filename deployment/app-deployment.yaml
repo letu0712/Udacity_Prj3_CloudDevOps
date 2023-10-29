@@ -15,7 +15,7 @@ spec:
         service: backend-analytics
     spec:
       containers:
-        - image: 865085514492.dkr.ecr.us-east-1.amazonaws.com/my-ecr:latest
+        - image: 865085514492.dkr.ecr.us-east-1.amazonaws.com/my-ecr:lastest
           name: backend-analytics
           imagePullPolicy: Always
           ports:
