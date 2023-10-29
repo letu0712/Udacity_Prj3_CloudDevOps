@@ -1,5 +1,5 @@
 # Use an official Python runtime as a parent image
-FROM python:3.11.5-bookworm
+FROM python:3.10-slim-buster
 
 # Set the working directory to /app
 WORKDIR /app
