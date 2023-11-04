@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    IMAGE_REPO_NAME: udacity-prj3-tulx
+    IMAGE_REPO_NAME: my-ecr
     IMAGE_TAG: latest
 phases:
   pre_build:
